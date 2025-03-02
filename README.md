@@ -1,2 +1,2 @@
-.gitignore# Seo
+# Seo
 Pour trouver sa place 
